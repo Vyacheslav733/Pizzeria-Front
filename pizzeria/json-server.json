@@ -1,0 +1,5 @@
+{
+    "static": "./node_modules/json-server/public",
+    "port": 8081,
+    "watch": "true"
+}

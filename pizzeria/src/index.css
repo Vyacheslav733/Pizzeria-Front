@@ -1,0 +1,18 @@
+.btn {
+  height: 35px;
+  width: 176px;
+  border-radius: 8px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.custom-btn {
+  color: black;
+  border: none;
+  background-color: #FFA800;
+}
+
+.btn.custom-btn:hover {
+  color: black;
+  background-color: #FFA800 !important;
+}
